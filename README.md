@@ -16,9 +16,9 @@ Must have the following Installed ... (versions for the following items are on m
 ### c. Angular CLI 
 ## ii. Guide
 ##### Step 1)
-Open up your Terminal and enter the following ... (this is just to get the repo on your local)
+Open up your Terminal and enter the following ... (this is just to get the repo on your local)<br>
 <code>git clone https://github.com/christianbryant-rva/angular-user-app.git</code>
 ##### Step 2)
-While in the Terminal, to see if the project compiles, type .. 
+While in the Terminal, to see if the project compiles, type<br>
 <code>ng serve </code>
 
