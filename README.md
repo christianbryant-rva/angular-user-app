@@ -11,9 +11,9 @@ Angular 4 Users App
 # Installation 
 ## i.Prerequisits
 Must have the following Installed ... (versions for the following items are on my TODO and will be up soon)
-<b>a. Node</b>
-<b>b. NPM || NVM</b>
-<b>c. Angular CLI</b>
+<b>a. Node</b><br>
+<b>b. NPM || NVM</b><br>
+<b>c. Angular CLI</b><br>
 ## ii. Guide
 ##### Step 1)
 Open up your Terminal and enter the following ... (this is just to get the repo on your local)<br>
