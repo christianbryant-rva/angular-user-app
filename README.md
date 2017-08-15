@@ -10,7 +10,7 @@ Angular 4 Users App
 ## iii. Expectations || Misc. "stuff" <hr>
 # Installation 
 ## i.Prerequisits
-Must have the following Installed ... (versions for the following items are on my TODO and will be up soon)
+Must have the following Installed ... (versions for the following items are on my TODO and will be up soon)<br>
 <b>a. Node</b><br>
 <b>b. NPM || NVM</b><br>
 <b>c. Angular CLI</b><br>
