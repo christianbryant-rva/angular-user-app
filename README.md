@@ -2,9 +2,23 @@
 Angular 4 Users App
 
 ### * NOTE: This is a work in progress * and should not be to integrate into ... well, anything :)
-
-## i. Overview
+# Project Overview <hr>
+## i. Description
 
 ## ii. Moving Parts
 
-## iii. Expectations || Misc. "stuff"
+## iii. Expectations || Misc. "stuff" <hr>
+# Installation 
+## i.Prerequisits
+Must have the following Installed ... (versions for the following items are on my TODO and will be up soon)
+### a. Node
+### b. NPM || NVM
+### c. Angular CLI 
+## ii. Guide
+##### Step 1)
+Open up your Terminal and enter the following ... (this is just to get the repo on your local)
+<code>git clone https://github.com/christianbryant-rva/angular-user-app.git</code>
+##### Step 2)
+While in the Terminal, to see if the project compiles, type .. 
+<code>ng serve </code>
+
