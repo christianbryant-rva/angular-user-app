@@ -28,7 +28,9 @@ import { TestService } from './my-tests/test/test.service';
     FormsModule,
     Http
   ],
+  // ### <services> Services Go here .. 
   providers: [UserService, TestService],
+  // ### </services>
   bootstrap: [AppComponent]
 })
 export class AppModule { }

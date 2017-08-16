@@ -19,6 +19,7 @@ export class UserComponent implements OnInit {
   constructor(private _userService: UserService) { }
 
   ngOnInit() {
+
     this.getUsers()
   
   }
@@ -27,5 +28,7 @@ export class UserComponent implements OnInit {
   getUsers() {
     this._userService.getUsers()
     .then(users => this.users = users)
+  //this.route.snapshot.data['name']  <-- eventually adding Router
+   console.log("Data via params: ",this.users['id']);
   }
 }
